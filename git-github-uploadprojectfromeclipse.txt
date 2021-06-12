@@ -1,0 +1,25 @@
+https://www.youtube.com/watch?v=Huwf0TgWrOw&list=PLsyeobzWxl7q2eaUkorLZExfd7qko9sZC&index=7
+
+https://help.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line 
+
+https://gist.github.com/mindplace/b4b094157d7a3be6afd2c96370d39fad
+
+
+Steps to create new repository on command line
+
+git init 
+
+git add README.md
+
+git commit -m "first commit"
+
+git remote add origin https://github.com/Ratna1992/hibernate.git
+
+git push -u origin master
+
+
+steps to push an existing repository on command line
+
+git remote add origin https://github.com/Ratna1992/hibernate.git
+
+git push -u origin master
